@@ -1,5 +1,6 @@
 img{
-	max-width:100%;
+	max-width:50%;
+	max-height:100%;
 	background-image: 239 B;
 }
 /*html,body,.jumbotron{
@@ -30,11 +31,20 @@ body{
 }
 .jumbotron{
 	background-size: cover;
-	background-image:url()
-
+	background-image:url(../img/IMG_9690.JPG)
 }
 .btn{
-	background-color:green;
+	background-color:darkgrey;
+	color:white;
+}
+.btn:hover { 
+background-color: darkgrey;
+border-color: black;
+cursor: pointer;
+ }
+
+.navbar-toggler navbar-toggler-right{
+	background-color:blue;
 }
 .display-1{
 	font-size: 65px;
