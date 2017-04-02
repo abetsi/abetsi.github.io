@@ -1,10 +1,13 @@
 img{
 	max-width:100%;
+	background-image: 239 B;
 }
-
+/*html,body,.jumbotron{
+	height:100%;
+}*/
 body{
 	background-color: rgba(66, 75, 66, 0.33);
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto Slab', serif;
 }
 .card{
 	margin-top: 20px;
@@ -24,4 +27,15 @@ body{
 }
 .container{
 	outline-color: grey;
+}
+.jumbotron{
+	background-size: cover;
+	background-image:url()
+
+}
+.btn{
+	background-color:green;
+}
+.display-1{
+	font-size: 65px;
 }
