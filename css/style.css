@@ -1,0 +1,27 @@
+img{
+	max-width:100%;
+}
+
+body{
+	background-color: rgba(66, 75, 66, 0.33);
+	font-family: 'Merriweather', serif;
+}
+.card{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.navbar{
+	background-color: grey;
+}
+.nav-link{
+	color:black;
+}
+.progress progress-success{
+	color:black;
+}
+.btn {
+	border-color: black;
+}
+.container{
+	outline-color: grey;
+}
